@@ -7,14 +7,14 @@
         public const int EMP_RATE_PER_HOUR = 20;
         public const int NUM_OF_WORKING_DAYS = 2;
         public const int MAX_HRS_IN_MONTH = 10;
-        static void Main(string[] args)
+
+        public static int computeEmpWage()
         {
-            
-            int empHrs=0;
-            int totalWorkingDays=0;
+            int empHrs = 0;
+            int totalWorkingDays = 0;
             int totalEmpHrs = 0;
 
-            while(totalEmpHrs<=MAX_HRS_IN_MONTH && totalWorkingDays< NUM_OF_WORKING_DAYS)
+            while (totalEmpHrs <= MAX_HRS_IN_MONTH && totalWorkingDays < NUM_OF_WORKING_DAYS)
             {
                 totalWorkingDays++;
                 Random random = new Random();
@@ -35,10 +35,16 @@
                         break;
                 }
                 totalEmpHrs += empHrs;
-                Console.WriteLine("DAY:"+totalWorkingDays+" EMPHOURS:"+ empHrs);
+                Console.WriteLine("DAY:" + totalWorkingDays + " EMPHOURS:" + empHrs);
             }
             int totalEmpWage = totalEmpHrs * EMP_RATE_PER_HOUR;
             Console.WriteLine("Total empWage :" + totalEmpWage);
+            return totalEmpWage;
+        }
+        static void Main(string[] args)
+        {
+            computeEmpWage();  
+            
         }
     }
 }
