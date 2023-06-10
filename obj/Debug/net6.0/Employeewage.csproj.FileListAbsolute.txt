@@ -1,0 +1,15 @@
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\bin\Debug\net6.0\Employeewage.exe
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\bin\Debug\net6.0\Employeewage.deps.json
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\bin\Debug\net6.0\Employeewage.runtimeconfig.json
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\bin\Debug\net6.0\Employeewage.dll
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\bin\Debug\net6.0\Employeewage.pdb
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\obj\Debug\net6.0\Employeewage.csproj.AssemblyReference.cache
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\obj\Debug\net6.0\Employeewage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\obj\Debug\net6.0\Employeewage.AssemblyInfoInputs.cache
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\obj\Debug\net6.0\Employeewage.AssemblyInfo.cs
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\obj\Debug\net6.0\Employeewage.csproj.CoreCompileInputs.cache
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\obj\Debug\net6.0\Employeewage.dll
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\obj\Debug\net6.0\refint\Employeewage.dll
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\obj\Debug\net6.0\Employeewage.pdb
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\obj\Debug\net6.0\Employeewage.genruntimeconfig.cache
+C:\Users\Sukanay\source\repos\Employeewage\Employeewage\obj\Debug\net6.0\ref\Employeewage.dll
