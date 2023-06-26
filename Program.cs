@@ -40,6 +40,8 @@
         }
         static void Main(string[] args)
         {
+            //EMPWAGE
+            //computing employee wage
             computeEmpWage("RELIANCE",20,2,10);
             computeEmpWage("TATA", 10, 4, 20);
             
